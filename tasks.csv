@@ -1,0 +1,46 @@
+Unique two- or three-letter strings which represent a single task. Each string implicitly implies all of its ancestors (i.e. `elif` implies `if` which implies `cf`, etc.
+
+sdo ; display data to stdout
+sdi ; retrieve information from keyboard input
+str ; initialize a string
+str-cat ; concatenate a string 
+str-fmt ; formatted string
+arr ; initialize an array
+arr-idx ; Access one element of array
+arr-srt ; Sort values of array alphabetically naively
+arr-srt-col ; Sort (collate) values of array alphabetically
+arr-len ; return length of an array object
+obj ; initialize an object
+obj-lifo ; create a stack (LIFO) object with pop and push methods
+num ; initialize a number (including integers, floats, doubles, etc)
+num-mth ; mathematical arithmetic operations
+num-mth-add ; addition of hard-coded values
+num-mth-sub ; subtraction of hard-coded values
+num-mth-mul ; multiplication of hard-coded values
+num-mth-pow
+num-mth-mod
+num-mth-div
+num-mth-bit
+log ; use of logical operators
+log-eq
+log-xeq
+log-lt
+log-gt
+log-lte
+log-gte
+map ; initialize a mapping (dictionary, hash, etc)
+map-keys
+map-vals
+map-key
+cf ; control flow
+cf-if
+cf-if-else
+cf-if-elif
+cf-case
+cf-loop
+cls ; declare a class
+cls-new ; instantiate a class instance
+file ; file operations
+file-read ; file reading
+file-write ; file writing
+cli-argv ; access command-line arguments
