@@ -13,7 +13,7 @@ Functional acts in language have a comparatively recent history in language stud
 
 Scholarly work on this topic ultimately culminated in the [ISO 24617-2](https://www.iso.org/standard/51967.html) semantic annotation framework.
 
-The long and the short of it is that annotating dialog acts has a substantial theoretical underpinning backed by decades of scholarly work, and the work of identifying functional acts in spoken language has only the loosest standardization.
+The long and the short of it is that annotating dialog acts has a substantial theoretical underpinning backed by decades of scholarly work, but despite this effort the work of identifying functional acts in spoken language remains only loosely standardized. Identifying dialog acts is "opt-in", in today's words.
 
 ## Applying language principles to computer programming
 Two main "layers" for programming tutorials
