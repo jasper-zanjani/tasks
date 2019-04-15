@@ -1,3 +1,4 @@
+#!/usr/bin/env perl
 my $a = 4;
 my $b = 13;
 
