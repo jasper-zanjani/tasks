@@ -1,4 +1,21 @@
-# General-purpose computer programming functional acts
+# Task-based understanding of computer programming
+As a former linguist trying to break into development, I am trying to leverage my knowledge of foreign language instruction and pedagagy to the project of learning how to code. This repo is my attempt to consolidate and organize my thoughts and observations on my proposed task-based curriculum of programming based on computer programming functional acts.
+
+## Background
+
+### Task-based instruction
+The phrase "task-based" refers to the recent movement in foreign language instruction to move away from the traditional focus on grammar which has been termed, pejoratively, "form-based". This trend has gained currency over time as a more effective way to teach language as it is actually used and (especially) spoken, rather than a theoretical exercise.
+
+### Functional acts in languages
+Functional acts in language have a comparatively recent history in language studies, dating back to the Speech Acts proposed by [J.L. Austin](https://en.wikipedia.org/wiki/J._L._Austin), collected in the volume _How to do Things with Words_. Austin identified five **speech acts**.
+
+[John R. Searle](https://en.wikipedia.org/wiki/John_Searle) responded to and elaborated on Austin's work by identifying **twelve dimensions of variation** to distinguish "illocutionary" acts.
+
+Scholarly work on this topic ultimately culminated in the [ISO 24617-2](https://www.iso.org/standard/51967.html) semantic annotation framework.
+
+The long and the short of it is that annotating dialog acts has a substantial theoretical underpinning backed by decades of scholarly work, and the work of identifying functional acts in spoken language has only the loosest standardization.
+
+## Applying language principles to computer programming
 Two main "layers" for programming tutorials
 
 1. Structural concepts: objects, prototypes, methods, flow control, callback functions, etc
