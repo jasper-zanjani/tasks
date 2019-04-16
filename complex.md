@@ -6,6 +6,7 @@
 : Loop over an array and write filenames to separate files
 ## fibonacci
 many solutions
+
 ## Upgraded hello world
 `hw stdin`
 : Display inputted information ("Hello, Jasper!")
@@ -14,3 +15,7 @@ many solutions
 `hw arr cf-loop`
 : Display a separate iteration of "Hello, {x}" for each value in an array
 
+`temp`
+: temperature converter from Celsius to Fahrenheit (inp, out, num-mth) (YUG:614)
+`leapyear`
+: determine whether inputted year is a leap year (inp, out, num-mth) (YUG: 622)

@@ -1,12 +1,13 @@
 Unique two- or three-letter strings which represent a single task. Each string implicitly implies all of its ancestors (i.e. `elif` implies `if` which implies `cf`, etc.
 
-sdo ; display data to stdout
-sdi ; retrieve information from keyboard input
+out ; display output
+inp ; retrieve input
 str ; initialize a string
 str-cat ; concatenate a string 
 str-fmt ; formatted string
 arr ; initialize an array
 arr-idx ; Access one element of array
+arr-rng ; Form an array of integers across a range
 arr-srt ; Sort values of array alphabetically naively
 arr-srt-col ; Sort (collate) values of array alphabetically
 arr-len ; return length of an array object

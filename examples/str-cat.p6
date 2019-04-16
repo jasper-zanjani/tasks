@@ -1,5 +1,3 @@
-#!/usr/bin/env perl
+#!/usr/bin/env perl6
 
-my $string1="Hello";
-my $string2="World";
-print $string1." ".$string2;
+my $pbj='peanut butter'~' and '~'jelly';
