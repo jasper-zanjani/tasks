@@ -16,9 +16,34 @@ Scholarly work on this topic ultimately culminated in the [ISO 24617-2](https://
 The long and the short of it is that annotating dialog acts has a substantial theoretical underpinning backed by decades of scholarly work, but despite this effort the work of identifying functional acts in spoken language remains only loosely standardized. Identifying dialog acts is "opt-in", in today's words.
 
 ## Applying language principles to computer programming
+
+### Current methods of teaching coding are form-based
 The focus on syntax that is universal to all coding tutorials available online is a symptom of the "form-based" way of thinking. The administrators of these online courses envision their mission as giving the learner the basic building blocks which ostensibly form the ingredients from which the recipes of the professionals (equivalent to native speakers) must ultimately derive. 
 
 This is analogous to the approach of the traditional, form-based foreign language instructor who focuses on the grammatical constructions into which all of a speaker's utterances may be decomposed. There are comparatively few courses that adopt a task-based approach, with the notable exception of those that focus on projects and market themselves toward intermediate or advanced learners.
+
+An interesting sidenote in this discussion is that of [Rosetta Code](https://www.rosettacode.org/), which hosts community-provided solutions to several dozen mathematical problems in a bewildering array of programming languages. Although at first glance Rosetta Code appears to offer a pragmatic framework for drawing comparisons between languages, in fact the mathematical problems are highly abstruse, strongly depend on advanced mathematical understanding, and most importantly are unlikely to occur with any frequency in development in a professional setting. As such, they are challenging puzzles to be solved, which can be beneficial to learning, but they do not qualify as tasks, per se.
+
+## Computer programming tasks
+In roughly increasing complexity:
+- display information (i.e. Hello World)
+- retrieve information from input
++ (develop a command-line interface)
+- initialize and define variables of various types 
+- perform recognizable operations (i.e. concatenate a string, arithmetic)
+- understand logical operations
+
+- format strings
+- sort arrays
+- get properties of objects appropriately (length of an array, reference a key in a mapping object, etc)
+- boolean values
+- control flow
+
+- object oriented programming
+
+
+
+
 
 Two main "layers" for programming tutorials
 
