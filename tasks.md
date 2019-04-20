@@ -27,6 +27,9 @@ str_upr
 str_lwr
 : convert string to lowercase
 
+str_upr
+: convert string to uppercase
+
 str_fmt
 : formatted string
 
@@ -89,27 +92,25 @@ arr-loop-fo
 : write filenames to various files
 
 inp-out-if
-: display inputted information with validation (YUG:615)
+: display inputted information with validation (YUG:615, PBX:example0301)
 
-### Named challenges
-
-temp : `inp-out-mth`
+temp (inp-out-mth)
 : convert temperatures from Celsius to Fahrenheit (or vice versa) (YUG:614)
 
-leap : `inp-mth`
+leap (inp-mth)
 : determine whether inputted year is a leap year (YUG:622)
 
-iptobin : `inp-mth-loop`
+iptobin (inp-mth-loop)
 : convert an IP address to binary 
 
-cat : `fi-loop-arr`
+cat (fi-loop-arr)
 : read a file into an array and print it out (YUG:621)
 
-grep : `fi-loop-re`
+grep (fi-loop-re)
 : search for a string in a file and print out the corresponding line (YUG:618)
 
-lastline : `fi-loop`
+lastline (fi-loop)
 : display the last line of a text file 
 
-indent : `fi-loop-fo`
+indent (fi-loop-fo)
 : insert fixed indentation to all lines of a text file 
