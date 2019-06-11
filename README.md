@@ -25,7 +25,9 @@ This is analogous to the approach of the traditional, form-based foreign languag
 An interesting sidenote in this discussion is that of [Rosetta Code](https://www.rosettacode.org/), which hosts community-provided solutions to several dozen mathematical problems in a bewildering array of programming languages. Although at first glance Rosetta Code appears to offer a pragmatic framework for drawing comparisons between languages, in fact the mathematical problems are highly abstruse, strongly depend on advanced mathematical understanding, and most importantly are unlikely to occur with any frequency in development in a professional setting. As such, they are challenging puzzles to be solved, which can be beneficial to learning, but they do not qualify as tasks, per se.
 
 ## Computer programming tasks
-Although rudimentary tasks may be resolvable to form-based syntactic features, keep in mind that the point is not that syntax should not be taught but that it must be taught in the service of a practical task, and that the language is taught **through repeated execution of the task in greater and greater sophistication**. In roughly increasing complexity:
+Although rudimentary tasks may be resolvable to form-based syntactic features, keep in mind that the point is not that syntax should not be taught but that it must be taught in the service of a practical task, and that the language is taught **through repeated execution of the task in greater and greater sophistication**. For example, executing simple calculations can be considered a basic application of programming, as can (in most languages) the use of realtime user input (`input()` in Python or `read` in bash, etc). A potential application that is a more sophisticated iteration of both of these tasks would be the creation of a tabletop RPG character, which requires both random number generation as well as user input.
+
+In roughly increasing complexity:
 - display information (i.e. Hello World)
 - retrieve information from input
 - CLI
